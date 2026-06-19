@@ -90,4 +90,4 @@ make flash
 
 ## 作者
 
-SmartAgricultureOS Team
+王嘉晟
