@@ -1,0 +1,30 @@
+# 编译产物
+build/
+*.o
+*.elf
+*.bin
+*.hex
+*.lst
+*.map
+*.d
+*.a
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# 调试
+*.log
+*.gdb
+
+# 临时文件
+*.tmp
+*.bak
